@@ -6,7 +6,7 @@ Designed quadrature generator for uniform and Gaussian weights
 * [File Contents](#contents)
 
 ## General info
-The paper associated with this code is located in (https://epubs.siam.org/doi/abs/10.1137/17M1137875).
+The paper associated with this code is located in https://epubs.siam.org/doi/abs/10.1137/17M1137875.
 
 ## Contents
 DQ_Gaussian folder includes a main file, main.m which by default produces quadraure rules for the Gaussian weight function given dimension and order of the total degree index set and number of nodes. 
